@@ -1,7 +1,7 @@
 # C1Leng_de_Progra
 ## Vicente Miralles Olivares - Nataniel Palacios Toro
 
-###COMANDOS
+### COMANDOS
 * Comando "definir habitantes por celda numero": Comando que modifica el valor de la variable INDIVIDUOS_POR_CELDA a "numero", lo que indica la cantidad de individuos por celda al momento de crear un automata.
 * Comando "crear automata numero numero": Comando que inicializa un automata celular ordinario de 1er "numero" filas y 2do "numero"2 columnas.
 * Comando "conectar automata numero numero numero numero numero numero": Comando que conecta al automata 1er"numero"  fila 2do"numero" columna 3er"numero" con el automata 4to"numero" fila 5to"numero" columna 6to"numero".
