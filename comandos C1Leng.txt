@@ -1,0 +1,32 @@
+definir habitantes por celda numero
+
+crear automata numero numero  //automata 0
+crear automata numero numero  //automata 1
+crear automata numero numero  //automata 2
+
+conectar automata numero numero numero numero numero numero
+
+ajustar tasa exposed numero
+ajustar tasa infected numero
+ajustar tasa recovered numero
+ajustar tasa susceptible numero
+
+imprimir sistema
+
+cambiar estado individuo numero numero numero numero estado
+
+mover individuos
+actualizar estados
+
+
+
+ejecutar simulacion libre numero
+reiniciar simulacion
+ejecutar simulacion confinamiento numero
+reiniciar sistema
+
+
+
+
+
+
